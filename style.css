@@ -1,0 +1,126 @@
+body {
+  padding: 0;
+ 
+}
+/* This is navbar start */
+.navbars {
+  background-color: #010101;
+}
+.navList {
+  color: #fff;
+  font-size: 15px;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 1.3px;
+}
+.navbar-brand {
+  font-size: 40px;
+  text-transform: Uppercase;
+}
+.navHome {
+  color: #ffbd2f;
+  border-bottom: 2px solid #ffbd2f;
+}
+/* This is navbar end */
+/* This is header start */
+.card-info {
+  color: #ffffff;
+  font-weight: 500;
+}
+.card-digital {
+  color: #ffffff;
+  font-size: 90px;
+  font-weight: 800;
+  line-height: 1.3em;
+}
+.header {
+  padding-left: 100px;
+  padding-top: 100px;
+  padding-right: 50px;
+  background-color: #010101;
+}
+.welcomeText {
+  color: #fff;
+  font-size: 20px;
+  letter-spacing: 2px;
+  font-weight: 500;
+  line-height: 1.2;
+}
+.welcomeHead {
+  font-size: 60px;
+  font-weight: 700;
+  word-spacing: 2px;
+  letter-spacing: 2px;
+}
+.buttonOne {
+  border: none;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  color: #ffffff;
+  background-color: #ff0066;
+  border-style: solid;
+  border-width: 2px 2px 2px 2px;
+  border-color: #ff0066;
+  padding: 20px 30px 20px 30px;
+  border-radius: 5%;
+}
+.buttonTwo {
+  border: none;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  color: #ffffff;
+  background-color: black;
+  border-style: solid;
+  border-width: 2px 2px 2px 2px;
+  border-color: #ff0066;
+  padding: 20px 30px 20px 30px;
+  border-radius: 5%;
+}
+/* This is header end */
+
+/* This is expert part start */
+.expert {
+  border: #fff;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.profile-list {
+  font-size: 25px;
+}
+/* This is expert part end  */
+/* This is Skils & Services start */
+.progressCard {
+  border: #fff;
+}
+.services {
+  text-align: center;
+}
+/* This is Skils & Services end  */
+/* This is info start  */
+.info {
+  margin-top: 100px;
+  background-color: #0e1118;
+  color: #fff;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.icon {
+  color: #ff0066;
+}
+/* This is info end  */
+/* This is footer start   */
+.footer {
+  height: 100px;
+
+  /* align-items: center; */
+  /* justify-content: center; */
+  background-color: #010101;
+  color: #fff;
+}
+.footerIcon {
+  color: #ff0066;
+}
+/* This is footer end  */
